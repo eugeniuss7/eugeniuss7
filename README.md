@@ -4,7 +4,8 @@ of Machine Learning in improving research progression.
 
 ## ***Books I'm reading***
 
-* Data Science: The Hard Parts | Techniques for Excelling at Data Science
-* Semantic Modeling for Data | Avoiding Pitfalls and Breaking Dilemmas
-* Machine Learning Pocket Reference | Working with Structured Data in Python
+* Kubernetes for Generative AI Solutions
+* The AI Ladder Accelerate Your Journey to AI
+* Learning LangChain Building AI and LLM Applications with LangChain and LangGraph
+
 
