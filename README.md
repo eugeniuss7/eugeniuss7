@@ -5,7 +5,4 @@ of Machine Learning in improving research progression.
 ## ***Books I'm reading***
 
 * Kubernetes for Generative AI Solutions
-* The AI Ladder Accelerate Your Journey to AI
-* Learning LangChain Building AI and LLM Applications with LangChain and LangGraph
-
-
+* Robinson Crusoe
