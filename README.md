@@ -4,5 +4,5 @@ the new MS Office and Excel of our era, therefore getting ahead of this trend is
 
 ## ***Books I'm reading***
 
-* Kubernetes for Generative AI Solutions
+* AI Engineering: Building Application with Foundation Models
 * Robinson Crusoe
